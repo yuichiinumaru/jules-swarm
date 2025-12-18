@@ -33,6 +33,9 @@ Before you begin, make sure you have **Python** installed.
 
 4.  **Configure your API Key**:
 <img width="714" height="415" alt="image" src="https://github.com/user-attachments/assets/66779d51-b72d-493b-83f4-13ed4679bc9f" />
+
+
+
     - You need a "key" to talk to the Jules AI. Get one at https://jules.google.com/settings/api
     - Copy the file named `.env.example` and rename the copy to `.env`.
     - Open `.env` with any text editor (Notepad is fine).
