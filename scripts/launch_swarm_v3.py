@@ -136,7 +136,7 @@ def main():
     parser = argparse.ArgumentParser(description="Jules Swarm Launcher (Rest API)")
     parser.add_argument("-t", "--type", required=True, help="Type of component to refactor (atoms, molecules, organisms, or custom)")
     parser.add_argument("-n", "--concurrency", type=int, default=5, help="Batch size (mock concurrency via sleep)")
-    parser.add_argument("--repo", default="yuichiinumaru/ivisa-tamagui", help="GitHub repository name (owner/repo)")
+    parser.add_argument("--repo", required=True, help="GitHub repository name (owner/repo)")
     
     args = parser.parse_args()
 
