@@ -60,7 +60,7 @@ Instrua o agente a **refletir** sobre qual metodologia aplicar (TDD, FDD, DDD) a
 jules login
 
 # 2. Dispare a Sonda (Substitua pelo SEU repo)
-jules remote new --repo yuichiinumaru/ivisa-tamagui --session "Check README.md and print the project name. This is a connectivity test."
+jules remote new --repo owner/repo --session "Check README.md and print the project name. This is a connectivity test."
 ```
 
 *   **Se falhar:** Verifique o nome do repo no GitHub ou sua autenticação.
@@ -75,7 +75,7 @@ Este é um **TEMPLATE**. Copie e adapte para o seu projeto.
 # scripts/launch_swarm.sh
 
 # 1. Defina o Repo EXPLICITAMENTE (Copie da URL do GitHub)
-REPO="yuichiinumaru/ivisa-tamagui"
+REPO="owner/repo"
 
 declare -a tasks=(
     # Task #15 do docs/02-tasks.md
