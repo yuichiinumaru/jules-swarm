@@ -1,0 +1,1514 @@
+[
+  {
+    "component": "Button",
+    "sessionId": "sessions/610241997296214823",
+    "title": "Refactor: Button",
+    "startTime": "2025-12-10T13:50:00",
+    "status": "created"
+  },
+  {
+    "component": "Alert",
+    "sessionId": "sessions/2136897921091547824",
+    "title": "Refactor: Alert",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "AspectRatio",
+    "sessionId": "sessions/2338180863383334968",
+    "title": "Refactor: AspectRatio",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "Avatar",
+    "sessionId": "sessions/1148533280855249655",
+    "title": "Refactor: Avatar",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "Badge",
+    "sessionId": "sessions/12109643611567383686",
+    "title": "Refactor: Badge",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "Checkbox",
+    "sessionId": "sessions/16381553164015630085",
+    "title": "Refactor: Checkbox",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "Input",
+    "sessionId": "sessions/8542818502101652215",
+    "title": "Refactor: Input",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "Kbd",
+    "sessionId": "sessions/14867311965304767966",
+    "title": "Refactor: Kbd",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "Label",
+    "sessionId": "sessions/11687168199851868491",
+    "title": "Refactor: Label",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "Progress",
+    "sessionId": "sessions/3108745722377050731",
+    "title": "Refactor: Progress",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "ScrollArea",
+    "sessionId": "sessions/15656747583367078005",
+    "title": "Refactor: ScrollArea",
+    "startTime": "2025-12-10T14:10:00",
+    "status": "created"
+  },
+  {
+    "component": "Separator",
+    "sessionId": "sessions/4936617615332842869",
+    "title": "Refactor: Separator",
+    "startTime": "2025-12-10T16:30:06.967533",
+    "status": "created"
+  },
+  {
+    "component": "Skeleton",
+    "sessionId": "sessions/10260442856057085890",
+    "title": "Refactor: Skeleton",
+    "startTime": "2025-12-10T16:30:10.332697",
+    "status": "created"
+  },
+  {
+    "component": "Slider",
+    "sessionId": "sessions/778227454201825430",
+    "title": "Refactor: Slider",
+    "startTime": "2025-12-10T16:30:13.743864",
+    "status": "created"
+  },
+  {
+    "component": "Spinner",
+    "sessionId": "sessions/7310869521230919839",
+    "title": "Refactor: Spinner",
+    "startTime": "2025-12-10T16:30:16.702825",
+    "status": "created"
+  },
+  {
+    "component": "Stack",
+    "sessionId": "sessions/10634616901043083404",
+    "title": "Refactor: Stack",
+    "startTime": "2025-12-10T16:30:19.551206",
+    "status": "created"
+  },
+  {
+    "component": "Switch",
+    "sessionId": "sessions/11155016287718424448",
+    "title": "Refactor: Switch",
+    "startTime": "2025-12-10T16:30:22.792824",
+    "status": "created"
+  },
+  {
+    "component": "Textarea",
+    "sessionId": "sessions/11512241054233672717",
+    "title": "Refactor: Textarea",
+    "startTime": "2025-12-10T16:30:25.778241",
+    "status": "created"
+  },
+  {
+    "component": "Toggle",
+    "sessionId": "sessions/18249884321034393256",
+    "title": "Refactor: Toggle",
+    "startTime": "2025-12-10T16:30:28.789438",
+    "status": "created"
+  },
+  {
+    "component": "Typography",
+    "sessionId": "sessions/18114802174976461377",
+    "title": "Refactor: Typography",
+    "startTime": "2025-12-10T16:30:32.136739",
+    "status": "created"
+  },
+  {
+    "component": "NavLink",
+    "sessionId": "sessions/10346208566698505321",
+    "title": "Refactor: NavLink",
+    "startTime": "2025-12-10T16:30:35.075555",
+    "status": "created"
+  },
+  {
+    "component": "Logo",
+    "sessionId": "sessions/1597636896550233068",
+    "title": "Refactor: Logo",
+    "startTime": "2025-12-10T16:30:38.243561",
+    "status": "created"
+  },
+  {
+    "component": "Dot",
+    "sessionId": "sessions/1776409349368513443",
+    "title": "Refactor: Dot",
+    "startTime": "2025-12-10T16:30:41.479401",
+    "status": "created"
+  },
+  {
+    "component": "Accordion",
+    "sessionId": "sessions/13234786001609420213",
+    "title": "Refactor: Accordion",
+    "startTime": "2025-12-10T20:12:05.281004",
+    "status": "created"
+  },
+  {
+    "component": "AlertDialog",
+    "sessionId": "sessions/5195840750227181812",
+    "title": "Refactor: AlertDialog",
+    "startTime": "2025-12-10T20:12:08.103828",
+    "status": "created"
+  },
+  {
+    "component": "AvatarGroup",
+    "sessionId": "sessions/7039064243706002828",
+    "title": "Refactor: AvatarGroup",
+    "startTime": "2025-12-10T20:12:11.225695",
+    "status": "created"
+  },
+  {
+    "component": "BadgeCounter",
+    "sessionId": "sessions/8539695813391814611",
+    "title": "Refactor: BadgeCounter",
+    "startTime": "2025-12-10T20:12:14.262340",
+    "status": "created"
+  },
+  {
+    "component": "Breadcrumb",
+    "sessionId": "sessions/4316336560679448423",
+    "title": "Refactor: Breadcrumb",
+    "startTime": "2025-12-10T20:12:17.608904",
+    "status": "created"
+  },
+  {
+    "component": "ButtonGroup",
+    "sessionId": "sessions/4709596245149598815",
+    "title": "Refactor: ButtonGroup",
+    "startTime": "2025-12-10T20:12:20.565700",
+    "status": "created"
+  },
+  {
+    "component": "Calendar",
+    "sessionId": "sessions/14540676105822444238",
+    "title": "Refactor: Calendar",
+    "startTime": "2025-12-10T20:12:23.412081",
+    "status": "created"
+  },
+  {
+    "component": "Card",
+    "sessionId": "sessions/320302576934023926",
+    "title": "Refactor: Card",
+    "startTime": "2025-12-10T20:12:26.343470",
+    "status": "created"
+  },
+  {
+    "component": "Collapsible",
+    "sessionId": "sessions/6310328591986706203",
+    "title": "Refactor: Collapsible",
+    "startTime": "2025-12-10T20:12:29.652115",
+    "status": "created"
+  },
+  {
+    "component": "ComponentErrorBoundary",
+    "sessionId": "sessions/8892522776144247961",
+    "title": "Refactor: ComponentErrorBoundary",
+    "startTime": "2025-12-10T20:12:32.401991",
+    "status": "created"
+  },
+  {
+    "component": "ContextMenu",
+    "sessionId": "sessions/1978306470874344731",
+    "title": "Refactor: ContextMenu",
+    "startTime": "2025-12-10T20:12:35.430202",
+    "status": "created"
+  },
+  {
+    "component": "DatePicker",
+    "sessionId": "sessions/14883937903997332791",
+    "title": "Refactor: DatePicker",
+    "startTime": "2025-12-10T20:12:38.207982",
+    "status": "created"
+  },
+  {
+    "component": "Dialog",
+    "sessionId": "sessions/17340227528443321775",
+    "title": "Refactor: Dialog",
+    "startTime": "2025-12-10T20:12:41.428478",
+    "status": "created"
+  },
+  {
+    "component": "Drawer",
+    "sessionId": "sessions/10048527228131549591",
+    "title": "Refactor: Drawer",
+    "startTime": "2025-12-10T20:12:44.152375",
+    "status": "created"
+  },
+  {
+    "component": "Empty",
+    "sessionId": "sessions/7290256657560021614",
+    "title": "Refactor: Empty",
+    "startTime": "2025-12-10T20:12:47.002072",
+    "status": "created"
+  },
+  {
+    "component": "Field",
+    "sessionId": "sessions/3292206753898807227",
+    "title": "Refactor: Field",
+    "startTime": "2025-12-10T20:12:49.758559",
+    "status": "created"
+  },
+  {
+    "component": "HoverCard",
+    "sessionId": "sessions/15243738505111002308",
+    "title": "Refactor: HoverCard",
+    "startTime": "2025-12-10T20:12:52.877928",
+    "status": "created"
+  },
+  {
+    "component": "InputGroup",
+    "sessionId": "sessions/4270437734858115015",
+    "title": "Refactor: InputGroup",
+    "startTime": "2025-12-10T20:12:55.977315",
+    "status": "created"
+  },
+  {
+    "component": "Item",
+    "sessionId": "sessions/2789341558441904475",
+    "title": "Refactor: Item",
+    "startTime": "2025-12-10T20:12:58.620888",
+    "status": "created"
+  },
+  {
+    "component": "Menubar",
+    "sessionId": "sessions/5088267931091244066",
+    "title": "Refactor: Menubar",
+    "startTime": "2025-12-10T20:13:01.623792",
+    "status": "created"
+  },
+  {
+    "component": "MonthsPicker",
+    "sessionId": "sessions/12397012482561653107",
+    "title": "Refactor: MonthsPicker",
+    "startTime": "2025-12-10T20:13:05.218062",
+    "status": "created"
+  },
+  {
+    "component": "NativeSelect",
+    "sessionId": "sessions/10394312203446883790",
+    "title": "Refactor: NativeSelect",
+    "startTime": "2025-12-10T20:13:08.181260",
+    "status": "created"
+  },
+  {
+    "component": "NavigationMenu",
+    "sessionId": "sessions/11166194293803602168",
+    "title": "Refactor: NavigationMenu",
+    "startTime": "2025-12-10T20:13:11.086793",
+    "status": "created"
+  },
+  {
+    "component": "OTPInput",
+    "sessionId": "sessions/11122409379249019210",
+    "title": "Refactor: OTPInput",
+    "startTime": "2025-12-10T20:13:13.760487",
+    "status": "created"
+  },
+  {
+    "component": "Pagination",
+    "sessionId": "sessions/6559553365986822872",
+    "title": "Refactor: Pagination",
+    "startTime": "2025-12-10T20:13:17.182332",
+    "status": "created"
+  },
+  {
+    "component": "Popover",
+    "sessionId": "sessions/17003105335214172241",
+    "title": "Refactor: Popover",
+    "startTime": "2025-12-10T20:13:20.013779",
+    "status": "created"
+  },
+  {
+    "component": "RadioGroup",
+    "sessionId": "sessions/18192417753922812080",
+    "title": "Refactor: RadioGroup",
+    "startTime": "2025-12-10T20:13:22.951838",
+    "status": "created"
+  },
+  {
+    "component": "Resizable",
+    "sessionId": "sessions/16652700841167769193",
+    "title": "Refactor: Resizable",
+    "startTime": "2025-12-10T20:13:25.923537",
+    "status": "created"
+  },
+  {
+    "component": "Select",
+    "sessionId": "sessions/16275853611313902001",
+    "title": "Refactor: Select",
+    "startTime": "2025-12-10T20:13:29.026008",
+    "status": "created"
+  },
+  {
+    "component": "Sheet",
+    "sessionId": "sessions/16174188485070666716",
+    "title": "Refactor: Sheet",
+    "startTime": "2025-12-10T20:13:32.027910",
+    "status": "created"
+  },
+  {
+    "component": "Sonner",
+    "sessionId": "sessions/13935720257890393344",
+    "title": "Refactor: Sonner",
+    "startTime": "2025-12-10T20:13:34.845473",
+    "status": "created"
+  },
+  {
+    "component": "StarRating",
+    "sessionId": "sessions/4187206820159755427",
+    "title": "Refactor: StarRating",
+    "startTime": "2025-12-10T20:13:37.788996",
+    "status": "created"
+  },
+  {
+    "component": "Stepper",
+    "sessionId": "sessions/5624900774852206456",
+    "title": "Refactor: Stepper",
+    "startTime": "2025-12-10T20:13:40.856061",
+    "status": "created"
+  },
+  {
+    "component": "Table",
+    "sessionId": "sessions/12465433611061990311",
+    "title": "Refactor: Table",
+    "startTime": "2025-12-10T20:13:44.069871",
+    "status": "created"
+  },
+  {
+    "component": "Tabs",
+    "sessionId": "sessions/1819439988750732430",
+    "title": "Refactor: Tabs",
+    "startTime": "2025-12-10T20:13:46.844631",
+    "status": "created"
+  },
+  {
+    "component": "Toast",
+    "sessionId": "sessions/3603143551838217776",
+    "title": "Refactor: Toast",
+    "startTime": "2025-12-10T20:13:49.748968",
+    "status": "created"
+  },
+  {
+    "component": "ToggleGroup",
+    "sessionId": "sessions/8470821535678544455",
+    "title": "Refactor: ToggleGroup",
+    "startTime": "2025-12-10T20:13:53.301585",
+    "status": "created"
+  },
+  {
+    "component": "Tooltip",
+    "sessionId": "sessions/12776585266854353059",
+    "title": "Refactor: Tooltip",
+    "startTime": "2025-12-10T20:13:56.285370",
+    "status": "created"
+  },
+  {
+    "component": "MetricCard",
+    "sessionId": "sessions/10898956778686554297",
+    "title": "Refactor: MetricCard",
+    "startTime": "2025-12-10T20:13:59.410328",
+    "status": "created"
+  },
+  {
+    "component": "NavGroup",
+    "sessionId": "sessions/9126108579410547741",
+    "title": "Refactor: NavGroup",
+    "startTime": "2025-12-10T20:14:02.266985",
+    "status": "created"
+  },
+  {
+    "component": "ChartContainer",
+    "sessionId": "sessions/502331359689095340",
+    "title": "Refactor: ChartContainer",
+    "startTime": "2025-12-10T20:14:05.847178",
+    "status": "created"
+  },
+  {
+    "component": "RadialChartContent",
+    "sessionId": "sessions/14369341608115368303",
+    "title": "Refactor: RadialChartContent",
+    "startTime": "2025-12-10T20:14:08.711417",
+    "status": "created"
+  },
+  {
+    "component": "HorizontalBarGroup",
+    "sessionId": "sessions/11932240997742443029",
+    "title": "Refactor: HorizontalBarGroup",
+    "startTime": "2025-12-10T20:14:11.816125",
+    "status": "created"
+  },
+  {
+    "component": "Collapsible",
+    "sessionId": "sessions/7658640210671527458",
+    "title": "Refactor: Collapsible",
+    "startTime": "2025-12-11T13:55:30.098672",
+    "status": "created"
+  },
+  {
+    "component": "Empty",
+    "sessionId": "sessions/4631933430795898581",
+    "title": "Refactor: Empty",
+    "startTime": "2025-12-11T13:55:33.201431",
+    "status": "created"
+  },
+  {
+    "component": "Sonner",
+    "sessionId": "sessions/14881574663270584859",
+    "title": "Refactor: Sonner",
+    "startTime": "2025-12-11T13:55:36.929183",
+    "status": "created"
+  },
+  {
+    "component": "MetricCard",
+    "sessionId": "sessions/5069382544934931143",
+    "title": "Refactor: MetricCard",
+    "startTime": "2025-12-11T13:55:39.970529",
+    "status": "created"
+  },
+  {
+    "component": "Autocomplete",
+    "sessionId": "sessions/12141032162089402903",
+    "title": "Refactor: Autocomplete",
+    "startTime": "2025-12-11T14:00:29.017753",
+    "status": "created"
+  },
+  {
+    "component": "Carousel",
+    "sessionId": "sessions/16655945337089654225",
+    "title": "Refactor: Carousel",
+    "startTime": "2025-12-11T14:00:32.155023",
+    "status": "created"
+  },
+  {
+    "component": "Charts",
+    "sessionId": "sessions/6953055481132063120",
+    "title": "Refactor: Charts",
+    "startTime": "2025-12-11T14:00:35.544424",
+    "status": "created"
+  },
+  {
+    "component": "Command",
+    "sessionId": "sessions/15065560455683038732",
+    "title": "Refactor: Command",
+    "startTime": "2025-12-11T14:00:38.400671",
+    "status": "created"
+  },
+  {
+    "component": "DashboardShell",
+    "sessionId": "sessions/779009443528531382",
+    "title": "Refactor: DashboardShell",
+    "startTime": "2025-12-11T14:00:43.206324",
+    "status": "created"
+  },
+  {
+    "component": "DataTable",
+    "sessionId": "sessions/13767077277124387128",
+    "title": "Refactor: DataTable",
+    "startTime": "2025-12-11T14:00:49.999530",
+    "status": "created"
+  },
+  {
+    "component": "FileUpload",
+    "sessionId": "sessions/3481820733678820910",
+    "title": "Refactor: FileUpload",
+    "startTime": "2025-12-11T14:00:53.041989",
+    "status": "created"
+  },
+  {
+    "component": "Form",
+    "sessionId": "sessions/17340492855929332889",
+    "title": "Refactor: Form",
+    "startTime": "2025-12-11T14:00:55.817999",
+    "status": "created"
+  },
+  {
+    "component": "RichText",
+    "sessionId": "sessions/7538230852032593207",
+    "title": "Refactor: RichText",
+    "startTime": "2025-12-11T14:00:58.776384",
+    "status": "created"
+  },
+  {
+    "component": "Sidebar",
+    "sessionId": "sessions/9686361760491690799",
+    "title": "Refactor: Sidebar",
+    "startTime": "2025-12-11T14:01:01.597514",
+    "status": "created"
+  },
+  {
+    "component": "Timeline",
+    "sessionId": "sessions/16855601768955863358",
+    "title": "Refactor: Timeline",
+    "startTime": "2025-12-11T14:01:08.600228",
+    "status": "created"
+  },
+  {
+    "component": "KPIGrid",
+    "sessionId": "sessions/1086488643477629696",
+    "title": "Refactor: KPIGrid",
+    "startTime": "2025-12-11T14:01:11.660847",
+    "status": "created"
+  },
+  {
+    "component": "TimeSeriesChart",
+    "sessionId": "sessions/6114053986383402782",
+    "title": "Refactor: TimeSeriesChart",
+    "startTime": "2025-12-11T14:01:16.401945",
+    "status": "created"
+  },
+  {
+    "component": "GaugeChart",
+    "sessionId": "sessions/10555113743901936004",
+    "title": "Refactor: GaugeChart",
+    "startTime": "2025-12-11T14:01:19.249869",
+    "status": "created"
+  },
+  {
+    "component": "RankingChart",
+    "sessionId": "sessions/14341525286393884116",
+    "title": "Refactor: RankingChart",
+    "startTime": "2025-12-11T14:01:22.072221",
+    "status": "created"
+  },
+  {
+    "component": "paper_1501.01613",
+    "sessionId": "sessions/7741189571246328464",
+    "title": "Research: Paper 1501.01613",
+    "startTime": "2025-12-17T21:19:36.152903",
+    "status": "created"
+  },
+  {
+    "component": "paper_1501.01613",
+    "sessionId": "sessions/11219526972653754468",
+    "title": "Research: Paper 1501.01613",
+    "startTime": "2025-12-18T18:48:33.495508",
+    "status": "created"
+  },
+  {
+    "component": "paper_1501.01613",
+    "sessionId": "sessions/13252277168831225479",
+    "title": "Research: Paper 1501.01613",
+    "startTime": "2025-12-18T19:05:48.046168",
+    "status": "created"
+  },
+  {
+    "component": "paper_1707.02275v1",
+    "sessionId": "sessions/9460600736921511487",
+    "title": "Research: Paper 1707.02275v1",
+    "startTime": "2025-12-18T19:05:52.508321",
+    "status": "created"
+  },
+  {
+    "component": "paper_1908.10084",
+    "sessionId": "sessions/12431291304428620852",
+    "title": "Research: Paper 1908.10084",
+    "startTime": "2025-12-18T19:05:57.051220",
+    "status": "created"
+  },
+  {
+    "component": "paper_2002.02314",
+    "sessionId": "sessions/17302452333653542424",
+    "title": "Research: Paper 2002.02314",
+    "startTime": "2025-12-18T19:06:01.584973",
+    "status": "created"
+  },
+  {
+    "component": "paper_2012.03453",
+    "sessionId": "sessions/9022811554352483438",
+    "title": "Research: Paper 2012.03453",
+    "startTime": "2025-12-18T19:06:09.320407",
+    "status": "created"
+  },
+  {
+    "component": "paper_2205.01351",
+    "sessionId": "sessions/5204538530697852173",
+    "title": "Research: Paper 2205.01351",
+    "startTime": "2025-12-18T19:06:13.392520",
+    "status": "created"
+  },
+  {
+    "component": "paper_2207.08651",
+    "sessionId": "sessions/13977997764376084432",
+    "title": "Research: Paper 2207.08651",
+    "startTime": "2025-12-18T19:06:17.687568",
+    "status": "created"
+  },
+  {
+    "component": "paper_2210.11124",
+    "sessionId": "sessions/8596113441367822205",
+    "title": "Research: Paper 2210.11124",
+    "startTime": "2025-12-18T19:06:21.766416",
+    "status": "created"
+  },
+  {
+    "component": "paper_2307.07924",
+    "sessionId": "sessions/13097146359666221521",
+    "title": "Research: Paper 2307.07924",
+    "startTime": "2025-12-18T19:06:29.770100",
+    "status": "created"
+  },
+  {
+    "component": "paper_2308.03099",
+    "sessionId": "sessions/10994094609319227805",
+    "title": "Research: Paper 2308.03099",
+    "startTime": "2025-12-18T19:06:34.121530",
+    "status": "created"
+  },
+  {
+    "component": "paper_2308.07124",
+    "sessionId": "sessions/1168779518598735712",
+    "title": "Research: Paper 2308.07124",
+    "startTime": "2025-12-18T19:06:38.595690",
+    "status": "created"
+  },
+  {
+    "component": "paper_2311.03470",
+    "sessionId": "sessions/6016236417440808697",
+    "title": "Research: Paper 2311.03470",
+    "startTime": "2025-12-18T19:06:42.686180",
+    "status": "created"
+  },
+  {
+    "component": "paper_2311.17541v2",
+    "sessionId": "sessions/12625374803761211129",
+    "title": "Research: Paper 2311.17541v2",
+    "startTime": "2025-12-18T19:06:50.590896",
+    "status": "created"
+  },
+  {
+    "component": "paper_2312.01498",
+    "sessionId": "sessions/14232550435439709530",
+    "title": "Research: Paper 2312.01498",
+    "startTime": "2025-12-18T19:06:56.981720",
+    "status": "created"
+  },
+  {
+    "component": "paper_2312.17294",
+    "sessionId": "sessions/16594988823092535448",
+    "title": "Research: Paper 2312.17294",
+    "startTime": "2025-12-18T19:07:01.586510",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.02172",
+    "sessionId": "sessions/16008782447230691861",
+    "title": "Research: Paper 2402.02172",
+    "startTime": "2025-12-18T19:07:06.204637",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.13116v1",
+    "sessionId": "sessions/8623246527115585595",
+    "title": "Research: Paper 2402.13116v1",
+    "startTime": "2025-12-18T19:07:14.094837",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.13753",
+    "sessionId": "sessions/5979746279022004624",
+    "title": "Research: Paper 2402.13753",
+    "startTime": "2025-12-18T19:07:18.351081",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.15538",
+    "sessionId": "sessions/14558657580966201322",
+    "title": "Research: Paper 2402.15538",
+    "startTime": "2025-12-18T19:07:22.612603",
+    "status": "created"
+  },
+  {
+    "component": "paper_2403.08488",
+    "sessionId": "sessions/12400019495891699549",
+    "title": "Research: Paper 2403.08488",
+    "startTime": "2025-12-18T19:07:26.901575",
+    "status": "created"
+  },
+  {
+    "component": "paper_2407.15734",
+    "sessionId": "sessions/12086600678313407238",
+    "title": "Research: Paper 2407.15734",
+    "startTime": "2025-12-18T19:07:34.808978",
+    "status": "created"
+  },
+  {
+    "component": "paper_2409.16120",
+    "sessionId": "sessions/10904685391410812328",
+    "title": "Research: Paper 2409.16120",
+    "startTime": "2025-12-18T19:07:39.146233",
+    "status": "created"
+  },
+  {
+    "component": "paper_2410.00726",
+    "sessionId": "sessions/8044232114080214769",
+    "title": "Research: Paper 2410.00726",
+    "startTime": "2025-12-18T19:07:43.554762",
+    "status": "created"
+  },
+  {
+    "component": "paper_2410.06153",
+    "sessionId": "sessions/10421211082632201666",
+    "title": "Research: Paper 2410.06153",
+    "startTime": "2025-12-18T19:07:48.063683",
+    "status": "created"
+  },
+  {
+    "component": "paper_2411.04330",
+    "sessionId": "sessions/7990854901246773821",
+    "title": "Research: Paper 2411.04330",
+    "startTime": "2025-12-18T19:07:55.993762",
+    "status": "created"
+  },
+  {
+    "component": "paper_2411.04468v1",
+    "sessionId": "sessions/5745288666468919871",
+    "title": "Research: Paper 2411.04468v1",
+    "startTime": "2025-12-18T19:08:00.392925",
+    "status": "created"
+  },
+  {
+    "component": "paper_2411.08932",
+    "sessionId": "sessions/14026113338836347211",
+    "title": "Research: Paper 2411.08932",
+    "startTime": "2025-12-18T19:08:04.694012",
+    "status": "created"
+  },
+  {
+    "component": "paper_2411.09502",
+    "sessionId": "sessions/6372471429536878846",
+    "title": "Research: Paper 2411.09502",
+    "startTime": "2025-12-18T19:08:08.288850",
+    "status": "created"
+  },
+  {
+    "component": "paper_2501.08156",
+    "sessionId": "sessions/9330690831026984166",
+    "title": "Research: Paper 2501.08156",
+    "startTime": "2025-12-18T19:08:16.078185",
+    "status": "created"
+  },
+  {
+    "component": "paper_2501.10534",
+    "sessionId": "sessions/1775314611974625028",
+    "title": "Research: Paper 2501.10534",
+    "startTime": "2025-12-18T19:08:20.434032",
+    "status": "created"
+  },
+  {
+    "component": "paper_2501.15000v1",
+    "sessionId": "sessions/13901221771280662643",
+    "title": "Research: Paper 2501.15000v1",
+    "startTime": "2025-12-18T19:08:25.228934",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.01635",
+    "sessionId": "sessions/11386011619898075799",
+    "title": "Research: Paper 2502.01635",
+    "startTime": "2025-12-18T19:08:29.489268",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.12618",
+    "sessionId": "sessions/12608147464596225478",
+    "title": "Research: Paper 2502.12618",
+    "startTime": "2025-12-18T19:08:37.468453",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.12678",
+    "sessionId": "sessions/12679256121557466307",
+    "title": "Research: Paper 2502.12678",
+    "startTime": "2025-12-18T19:08:41.939964",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.13063",
+    "sessionId": "sessions/13057367033121959413",
+    "title": "Research: Paper 2502.13063",
+    "startTime": "2025-12-18T19:08:46.384254",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.18600",
+    "sessionId": "sessions/11786027427357927903",
+    "title": "Research: Paper 2502.18600",
+    "startTime": "2025-12-18T19:08:50.567318",
+    "status": "created"
+  },
+  {
+    "component": "paper_2503.13657",
+    "sessionId": "sessions/11179850767779255293",
+    "title": "Research: Paper 2503.13657",
+    "startTime": "2025-12-18T19:08:58.592866",
+    "status": "created"
+  },
+  {
+    "component": "paper_2503.18666",
+    "sessionId": "sessions/18209321101709577046",
+    "title": "Research: Paper 2503.18666",
+    "startTime": "2025-12-18T19:09:02.863718",
+    "status": "created"
+  },
+  {
+    "component": "paper_2503.19595",
+    "sessionId": "sessions/6743993890682623224",
+    "title": "Research: Paper 2503.19595",
+    "startTime": "2025-12-18T19:09:07.531348",
+    "status": "created"
+  },
+  {
+    "component": "paper_2503.23307",
+    "sessionId": "sessions/2524003615635610245",
+    "title": "Research: Paper 2503.23307",
+    "startTime": "2025-12-18T19:09:11.749596",
+    "status": "created"
+  },
+  {
+    "component": "paper_2007.05046",
+    "sessionId": "sessions/15715176209434172789",
+    "title": "Research: Paper 2007.05046",
+    "startTime": "2025-12-18T20:20:27.388413",
+    "status": "created"
+  },
+  {
+    "component": "paper_2212.08073",
+    "sessionId": "sessions/15977072460115194273",
+    "title": "Research: Paper 2212.08073",
+    "startTime": "2025-12-18T20:20:43.873882",
+    "status": "created"
+  },
+  {
+    "component": "paper_2311.09835",
+    "sessionId": "sessions/17706685919707327395",
+    "title": "Research: Paper 2311.09835",
+    "startTime": "2025-12-18T20:20:50.816723",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.10200",
+    "sessionId": "sessions/34722340540046868",
+    "title": "Research: Paper 2402.10200",
+    "startTime": "2025-12-18T20:20:58.103979",
+    "status": "created"
+  },
+  {
+    "component": "paper_2407.08597",
+    "sessionId": "sessions/12918773808875506668",
+    "title": "Research: Paper 2407.08597",
+    "startTime": "2025-12-18T20:21:04.959273",
+    "status": "created"
+  },
+  {
+    "component": "paper_2412.13961",
+    "sessionId": "sessions/15598603910953527969",
+    "title": "Research: Paper 2412.13961",
+    "startTime": "2025-12-18T20:21:10.993290",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.05171",
+    "sessionId": "sessions/17405005331821703784",
+    "title": "Research: Paper 2502.05171",
+    "startTime": "2025-12-18T20:21:15.341247",
+    "status": "created"
+  },
+  {
+    "component": "paper_2503.03730",
+    "sessionId": "sessions/1423364872316439167",
+    "title": "Research: Paper 2503.03730",
+    "startTime": "2025-12-18T20:21:19.773575",
+    "status": "created"
+  },
+  {
+    "component": "paper_2504.02495",
+    "sessionId": "sessions/15051883827734646823",
+    "title": "Research: Paper 2504.02495",
+    "startTime": "2025-12-18T20:21:23.997730",
+    "status": "created"
+  },
+  {
+    "component": "paper_2504.20434",
+    "sessionId": "sessions/2141655043178334934",
+    "title": "Research: Paper 2504.20434",
+    "startTime": "2025-12-18T20:21:30.173002",
+    "status": "created"
+  },
+  {
+    "component": "paper_2505.04588",
+    "sessionId": "sessions/5284950290218924474",
+    "title": "Research: Paper 2505.04588",
+    "startTime": "2025-12-18T20:21:34.532452",
+    "status": "created"
+  },
+  {
+    "component": "paper_2505.13379",
+    "sessionId": "sessions/18361837544560826716",
+    "title": "Research: Paper 2505.13379",
+    "startTime": "2025-12-18T20:21:39.007199",
+    "status": "created"
+  },
+  {
+    "component": "paper_2505.17612",
+    "sessionId": "sessions/14273986659944247139",
+    "title": "Research: Paper 2505.17612",
+    "startTime": "2025-12-18T20:21:43.472437",
+    "status": "created"
+  },
+  {
+    "component": "paper_2506.05007",
+    "sessionId": "sessions/15957505130194369143",
+    "title": "Research: Paper 2506.05007",
+    "startTime": "2025-12-18T20:21:49.512278",
+    "status": "created"
+  },
+  {
+    "component": "paper_2506.07411",
+    "sessionId": "sessions/8915505444244605319",
+    "title": "Research: Paper 2506.07411",
+    "startTime": "2025-12-18T20:21:53.753339",
+    "status": "created"
+  },
+  {
+    "component": "paper_2506.11060",
+    "sessionId": "sessions/12723812805269844350",
+    "title": "Research: Paper 2506.11060",
+    "startTime": "2025-12-18T20:21:58.207038",
+    "status": "created"
+  },
+  {
+    "component": "paper_2506.11578",
+    "sessionId": "sessions/1240429160256130856",
+    "title": "Research: Paper 2506.11578",
+    "startTime": "2025-12-18T20:22:02.603345",
+    "status": "created"
+  },
+  {
+    "component": "paper_2507.00606",
+    "sessionId": "sessions/6564223143855642939",
+    "title": "Research: Paper 2507.00606",
+    "startTime": "2025-12-18T20:22:08.450467",
+    "status": "created"
+  },
+  {
+    "component": "paper_2507.09089",
+    "sessionId": "sessions/12865664051955417422",
+    "title": "Research: Paper 2507.09089",
+    "startTime": "2025-12-18T20:22:12.738824",
+    "status": "created"
+  },
+  {
+    "component": "paper_2507.13334",
+    "sessionId": "sessions/12701003864995739451",
+    "title": "Research: Paper 2507.13334",
+    "startTime": "2025-12-18T20:22:17.093766",
+    "status": "created"
+  },
+  {
+    "component": "paper_2508.08322",
+    "sessionId": "sessions/112252632399173588",
+    "title": "Research: Paper 2508.08322",
+    "startTime": "2025-12-18T20:22:21.368846",
+    "status": "created"
+  },
+  {
+    "component": "paper_2510.03595",
+    "sessionId": "sessions/2392723146098595573",
+    "title": "Research: Paper 2510.03595",
+    "startTime": "2025-12-18T20:22:27.200979",
+    "status": "created"
+  },
+  {
+    "component": "paper_2510.04618",
+    "sessionId": "sessions/9461659787668705160",
+    "title": "Research: Paper 2510.04618",
+    "startTime": "2025-12-18T20:22:31.405796",
+    "status": "created"
+  },
+  {
+    "component": "paper_2510.20333",
+    "sessionId": "sessions/187182681774312585",
+    "title": "Research: Paper 2510.20333",
+    "startTime": "2025-12-18T20:22:35.765947",
+    "status": "created"
+  },
+  {
+    "component": "paper_2510.21413",
+    "sessionId": "sessions/442123828736884257",
+    "title": "Research: Paper 2510.21413",
+    "startTime": "2025-12-18T20:22:39.959517",
+    "status": "created"
+  },
+  {
+    "component": "paper_2511.09904",
+    "sessionId": "sessions/4604781890569311125",
+    "title": "Research: Paper 2511.09904",
+    "startTime": "2025-12-18T20:22:45.947137",
+    "status": "created"
+  },
+  {
+    "component": "paper_2511.10952",
+    "sessionId": "sessions/11786235183108883558",
+    "title": "Research: Paper 2511.10952",
+    "startTime": "2025-12-18T20:22:50.295017",
+    "status": "created"
+  },
+  {
+    "component": "paper_1908.10084",
+    "sessionId": "sessions/9627253538414492052",
+    "title": "Research: Paper 1908.10084",
+    "startTime": "2025-12-18T22:07:22.704622",
+    "status": "created"
+  },
+  {
+    "component": "paper_2002.02314",
+    "sessionId": "sessions/13599893483832523889",
+    "title": "Research: Paper 2002.02314",
+    "startTime": "2025-12-18T22:07:29.674934",
+    "status": "created"
+  },
+  {
+    "component": "paper_2007.05046",
+    "sessionId": "sessions/17521747070967322854",
+    "title": "Research: Paper 2007.05046",
+    "startTime": "2025-12-18T22:07:36.838642",
+    "status": "created"
+  },
+  {
+    "component": "paper_2012.03453",
+    "sessionId": "sessions/1404697610800801835",
+    "title": "Research: Paper 2012.03453",
+    "startTime": "2025-12-18T22:07:43.715870",
+    "status": "created"
+  },
+  {
+    "component": "paper_2207.08651",
+    "sessionId": "sessions/5699611879691235161",
+    "title": "Research: Paper 2207.08651",
+    "startTime": "2025-12-18T22:07:49.370473",
+    "status": "created"
+  },
+  {
+    "component": "paper_2210.11124",
+    "sessionId": "sessions/1878864127483087048",
+    "title": "Research: Paper 2210.11124",
+    "startTime": "2025-12-18T22:07:53.687010",
+    "status": "created"
+  },
+  {
+    "component": "paper_2212.08073",
+    "sessionId": "sessions/4337075925060439692",
+    "title": "Research: Paper 2212.08073",
+    "startTime": "2025-12-18T22:07:58.309837",
+    "status": "created"
+  },
+  {
+    "component": "paper_2308.03099",
+    "sessionId": "sessions/18273513223808861865",
+    "title": "Research: Paper 2308.03099",
+    "startTime": "2025-12-18T22:08:02.543477",
+    "status": "created"
+  },
+  {
+    "component": "paper_2311.03470",
+    "sessionId": "sessions/16666207067739366529",
+    "title": "Research: Paper 2311.03470",
+    "startTime": "2025-12-18T22:08:08.223752",
+    "status": "created"
+  },
+  {
+    "component": "paper_2311.09835",
+    "sessionId": "sessions/11016045946840174667",
+    "title": "Research: Paper 2311.09835",
+    "startTime": "2025-12-18T22:08:12.309172",
+    "status": "created"
+  },
+  {
+    "component": "paper_2311.17541v2",
+    "sessionId": "sessions/13158602588936768419",
+    "title": "Research: Paper 2311.17541v2",
+    "startTime": "2025-12-18T22:08:16.938899",
+    "status": "created"
+  },
+  {
+    "component": "paper_2312.01498",
+    "sessionId": "sessions/14492982129808934218",
+    "title": "Research: Paper 2312.01498",
+    "startTime": "2025-12-18T22:08:21.218920",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.02172",
+    "sessionId": "sessions/17346422217376029107",
+    "title": "Research: Paper 2402.02172",
+    "startTime": "2025-12-18T22:08:26.978510",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.10200",
+    "sessionId": "sessions/12096627561452445063",
+    "title": "Research: Paper 2402.10200",
+    "startTime": "2025-12-18T22:08:31.622979",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.13753",
+    "sessionId": "sessions/471589146646540224",
+    "title": "Research: Paper 2402.13753",
+    "startTime": "2025-12-18T22:08:36.367937",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.15538",
+    "sessionId": "sessions/7887378360600641649",
+    "title": "Research: Paper 2402.15538",
+    "startTime": "2025-12-18T22:08:40.646067",
+    "status": "created"
+  },
+  {
+    "component": "paper_2407.08597",
+    "sessionId": "sessions/18001332515268109109",
+    "title": "Research: Paper 2407.08597",
+    "startTime": "2025-12-18T22:08:46.507594",
+    "status": "created"
+  },
+  {
+    "component": "paper_2407.15734",
+    "sessionId": "sessions/7052708796434637615",
+    "title": "Research: Paper 2407.15734",
+    "startTime": "2025-12-18T22:08:50.820722",
+    "status": "created"
+  },
+  {
+    "component": "paper_2409.16120",
+    "sessionId": "sessions/3184789857450574002",
+    "title": "Research: Paper 2409.16120",
+    "startTime": "2025-12-18T22:08:55.118761",
+    "status": "created"
+  },
+  {
+    "component": "paper_2411.02959v1",
+    "sessionId": "sessions/12457414887609397253",
+    "title": "Research: Paper 2411.02959v1",
+    "startTime": "2025-12-18T22:08:59.327985",
+    "status": "created"
+  },
+  {
+    "component": "paper_2411.04468v1",
+    "sessionId": "sessions/4989362286847609861",
+    "title": "Research: Paper 2411.04468v1",
+    "startTime": "2025-12-18T22:09:04.973444",
+    "status": "created"
+  },
+  {
+    "component": "paper_2411.09502",
+    "sessionId": "sessions/4704553928491867886",
+    "title": "Research: Paper 2411.09502",
+    "startTime": "2025-12-18T22:09:09.422281",
+    "status": "created"
+  },
+  {
+    "component": "paper_2501.08156",
+    "sessionId": "sessions/10959023549089735613",
+    "title": "Research: Paper 2501.08156",
+    "startTime": "2025-12-18T22:09:13.808833",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.01635",
+    "sessionId": "sessions/6455712874557884237",
+    "title": "Research: Paper 2502.01635",
+    "startTime": "2025-12-18T22:09:18.098772",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.12618",
+    "sessionId": "sessions/12037195073962383245",
+    "title": "Research: Paper 2502.12618",
+    "startTime": "2025-12-18T22:09:24.066293",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.12678",
+    "sessionId": "sessions/14448598850374295553",
+    "title": "Research: Paper 2502.12678",
+    "startTime": "2025-12-18T22:09:28.390651",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.13063",
+    "sessionId": "sessions/13318958913734182313",
+    "title": "Research: Paper 2502.13063",
+    "startTime": "2025-12-18T22:09:32.839314",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.18600",
+    "sessionId": "sessions/10173106179099514305",
+    "title": "Research: Paper 2502.18600",
+    "startTime": "2025-12-18T22:09:37.114440",
+    "status": "created"
+  },
+  {
+    "component": "paper_2503.19595",
+    "sessionId": "sessions/8037799726525507056",
+    "title": "Research: Paper 2503.19595",
+    "startTime": "2025-12-18T22:09:42.898111",
+    "status": "created"
+  },
+  {
+    "component": "paper_2504.02495",
+    "sessionId": "sessions/14718097919058206597",
+    "title": "Research: Paper 2504.02495",
+    "startTime": "2025-12-18T22:09:47.101008",
+    "status": "created"
+  },
+  {
+    "component": "paper_2504.13171",
+    "sessionId": "sessions/2197207498389650137",
+    "title": "Research: Paper 2504.13171",
+    "startTime": "2025-12-18T22:09:51.344167",
+    "status": "created"
+  },
+  {
+    "component": "paper_2504.20434",
+    "sessionId": "sessions/15832501681015842470",
+    "title": "Research: Paper 2504.20434",
+    "startTime": "2025-12-18T22:09:55.487283",
+    "status": "created"
+  },
+  {
+    "component": "paper_2505.22954",
+    "sessionId": "sessions/9477323327004381416",
+    "title": "Research: Paper 2505.22954",
+    "startTime": "2025-12-18T22:10:01.443181",
+    "status": "created"
+  },
+  {
+    "component": "paper_2506.05007",
+    "sessionId": "sessions/9866666876339487262",
+    "title": "Research: Paper 2506.05007",
+    "startTime": "2025-12-18T22:10:05.622649",
+    "status": "created"
+  },
+  {
+    "component": "paper_2506.11060",
+    "sessionId": "sessions/756046590651314712",
+    "title": "Research: Paper 2506.11060",
+    "startTime": "2025-12-18T22:10:09.939134",
+    "status": "created"
+  },
+  {
+    "component": "paper_2506.11578",
+    "sessionId": "sessions/6799760294350891984",
+    "title": "Research: Paper 2506.11578",
+    "startTime": "2025-12-18T22:10:14.277686",
+    "status": "created"
+  },
+  {
+    "component": "paper_2507.00606",
+    "sessionId": "sessions/5345907601405082939",
+    "title": "Research: Paper 2507.00606",
+    "startTime": "2025-12-18T22:10:20.344936",
+    "status": "created"
+  },
+  {
+    "component": "paper_2507.09089",
+    "sessionId": "sessions/6874740344258499484",
+    "title": "Research: Paper 2507.09089",
+    "startTime": "2025-12-18T22:10:24.624585",
+    "status": "created"
+  },
+  {
+    "component": "paper_2507.13334",
+    "sessionId": "sessions/17556032698354980626",
+    "title": "Research: Paper 2507.13334",
+    "startTime": "2025-12-18T22:10:29.244480",
+    "status": "created"
+  },
+  {
+    "component": "paper_2508.08322",
+    "sessionId": "sessions/17247267047769785857",
+    "title": "Research: Paper 2508.08322",
+    "startTime": "2025-12-18T22:10:33.979390",
+    "status": "created"
+  },
+  {
+    "component": "paper_2510.03595",
+    "sessionId": "sessions/9286144314709883305",
+    "title": "Research: Paper 2510.03595",
+    "startTime": "2025-12-18T22:10:40.211091",
+    "status": "created"
+  },
+  {
+    "component": "paper_2510.04618",
+    "sessionId": "sessions/4505796574841375129",
+    "title": "Research: Paper 2510.04618",
+    "startTime": "2025-12-18T22:10:44.570848",
+    "status": "created"
+  },
+  {
+    "component": "paper_2510.20333",
+    "sessionId": "sessions/3326532505346608020",
+    "title": "Research: Paper 2510.20333",
+    "startTime": "2025-12-18T22:10:48.849995",
+    "status": "created"
+  },
+  {
+    "component": "paper_2510.26493",
+    "sessionId": "sessions/13182133207552480835",
+    "title": "Research: Paper 2510.26493",
+    "startTime": "2025-12-18T22:10:53.017787",
+    "status": "created"
+  },
+  {
+    "component": "paper_2511.10952",
+    "sessionId": "sessions/13441517038862978990",
+    "title": "Research: Paper 2511.10952",
+    "startTime": "2025-12-18T22:10:58.766994",
+    "status": "created"
+  },
+  {
+    "component": "paper_2511.11793",
+    "sessionId": "sessions/1866642206926919283",
+    "title": "Research: Paper 2511.11793",
+    "startTime": "2025-12-18T22:11:03.323790",
+    "status": "created"
+  },
+  {
+    "component": "paper_2511.12482",
+    "sessionId": "sessions/11779534685971901004",
+    "title": "Research: Paper 2511.12482",
+    "startTime": "2025-12-18T22:11:07.730613",
+    "status": "created"
+  },
+  {
+    "component": "paper_2511.13288",
+    "sessionId": "sessions/3458962226792531987",
+    "title": "Research: Paper 2511.13288",
+    "startTime": "2025-12-18T22:11:12.117877",
+    "status": "created"
+  },
+  {
+    "component": "paper_1908.10084",
+    "sessionId": "sessions/13029744374694691286",
+    "title": "Research: Paper 1908.10084",
+    "startTime": "2025-12-19T09:13:41.902579",
+    "status": "created"
+  },
+  {
+    "component": "paper_2002.02314",
+    "sessionId": "sessions/13469537578383235323",
+    "title": "Research: Paper 2002.02314",
+    "startTime": "2025-12-19T09:13:49.163264",
+    "status": "created"
+  },
+  {
+    "component": "paper_2205.01351",
+    "sessionId": "sessions/2442128989223041113",
+    "title": "Research: Paper 2205.01351",
+    "startTime": "2025-12-19T09:13:57.152245",
+    "status": "created"
+  },
+  {
+    "component": "paper_2207.08651",
+    "sessionId": "sessions/14720273971004443162",
+    "title": "Research: Paper 2207.08651",
+    "startTime": "2025-12-19T09:14:05.416754",
+    "status": "created"
+  },
+  {
+    "component": "paper_2212.08073",
+    "sessionId": "sessions/11400375037846045050",
+    "title": "Research: Paper 2212.08073",
+    "startTime": "2025-12-19T09:14:11.485034",
+    "status": "created"
+  },
+  {
+    "component": "paper_2308.03099",
+    "sessionId": "sessions/11826135082207483122",
+    "title": "Research: Paper 2308.03099",
+    "startTime": "2025-12-19T09:14:16.319168",
+    "status": "created"
+  },
+  {
+    "component": "paper_2308.07124",
+    "sessionId": "sessions/17592059374608377845",
+    "title": "Research: Paper 2308.07124",
+    "startTime": "2025-12-19T09:14:20.821937",
+    "status": "created"
+  },
+  {
+    "component": "paper_2311.03470",
+    "sessionId": "sessions/11181913955199329520",
+    "title": "Research: Paper 2311.03470",
+    "startTime": "2025-12-19T09:14:25.558735",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.10200",
+    "sessionId": "sessions/1827762994950085832",
+    "title": "Research: Paper 2402.10200",
+    "startTime": "2025-12-19T09:14:31.578865",
+    "status": "created"
+  },
+  {
+    "component": "paper_2402.15538",
+    "sessionId": "sessions/17159722286959456867",
+    "title": "Research: Paper 2402.15538",
+    "startTime": "2025-12-19T09:14:36.043335",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.12618",
+    "sessionId": "sessions/7570136382488739967",
+    "title": "Research: Paper 2502.12618",
+    "startTime": "2025-12-19T09:14:40.892965",
+    "status": "created"
+  },
+  {
+    "component": "paper_2502.12678",
+    "sessionId": "sessions/1963654589594334364",
+    "title": "Research: Paper 2502.12678",
+    "startTime": "2025-12-19T09:14:45.424978",
+    "status": "created"
+  },
+  {
+    "component": "paper_2504.13171",
+    "sessionId": "sessions/16053241994795369420",
+    "title": "Research: Paper 2504.13171",
+    "startTime": "2025-12-19T09:14:51.762819",
+    "status": "created"
+  },
+  {
+    "component": "paper_2506.11060",
+    "sessionId": "sessions/17681369232740631872",
+    "title": "Research: Paper 2506.11060",
+    "startTime": "2025-12-19T09:14:56.041485",
+    "status": "created"
+  }
+]
